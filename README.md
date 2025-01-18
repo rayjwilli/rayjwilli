@@ -1,8 +1,8 @@
 ## Hey, I'm RJ! 👋
 
-- 🏅 I’m currently working on software startup as a solopreneur.
-- 📚 Studying computer science in school.
-- 🤔 What tech stack should I use as my main?
+- 🏅 I’m currently working on software startup as a solopreneur. <br/>
+- 📚 Studying computer science in school. <br/>
+- 🤔 What tech stack should I use as my main? <br/>
 
-[![rayjwilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayjwilli)](https://github.com/rayjwilli/github-readme-stats)
+![RJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayjwilli&show_icons=true&theme=transparent)
   
